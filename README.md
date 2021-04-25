@@ -1,5 +1,5 @@
 # Programmers_42746
-## 프로그래머스 - 가장 큰 수 구하기
+## 프로그래머스 - 가장 큰 수 (https://programmers.co.kr/learn/courses/30/lessons/42746)
 Comparator 를 이용한 정렬 문제로 답을 구할 수 있는 문제.
 Output은 주어진 정수를 나열하였을 때 가장 큰 수를 반환해야 함 되어야 함.
 처음엔 Integer 연산으로 결과값을 만들어보려 했지만, String으로 변환 & 정렬을 통해 훨씬 효율적인 방법으로 해답을 만들어낼 수 있었음.
